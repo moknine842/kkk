@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 01ba1c3bba70e708402f2f851d9bd7c7d6e835e3 Ali Moknine <48400074-mokninea074@users.noreply.replit.com> 1759841012 +0000	branch: Created from origin/main
+01ba1c3bba70e708402f2f851d9bd7c7d6e835e3 4e3ab2c1590b24224d4ea0a62d51066a286a6cda mokninea074 <48400074-mokninea074@users.noreply.replit.com> 1759841124 +0000	commit: Improve form validation for user registration and login
+4e3ab2c1590b24224d4ea0a62d51066a286a6cda 7b3d7585322bbf16cdd77d56e5f38abb146ed432 mokninea074 <48400074-mokninea074@users.noreply.replit.com> 1759841193 +0000	commit: Improve the way the application handles user preferences
+7b3d7585322bbf16cdd77d56e5f38abb146ed432 b06b4ef4e42ba8a75ab298923fa27dd7718be81b mokninea074 <48400074-mokninea074@users.noreply.replit.com> 1759841239 +0000	commit: Improve development environment setup for seamless deployment
+b06b4ef4e42ba8a75ab298923fa27dd7718be81b 1c268edca53c06289af1f3a63c39f546c6f72521 mokninea074 <48400074-mokninea074@users.noreply.replit.com> 1759841246 +0000	commit: Add input validation for user registration to prevent errors
+1c268edca53c06289af1f3a63c39f546c6f72521 963dcc7da68410c01aabcb66d93130c5fb232ed4 mokninea074 <48400074-mokninea074@users.noreply.replit.com> 1759841576 +0000	commit: Update game flow to navigate to online lobby creation and joining
+963dcc7da68410c01aabcb66d93130c5fb232ed4 1ea1bc3cae208dbf4e5de38d916da898603197b5 mokninea074 <48400074-mokninea074@users.noreply.replit.com> 1759841941 +0000	commit: Update database connection to support serverless environments

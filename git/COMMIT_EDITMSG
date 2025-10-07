@@ -1,0 +1,8 @@
+Update database connection to support serverless environments
+
+Changes the database connection from `neon` to `Pool` and configures `neonConfig` for WebSocket support in Node.js.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: ccd9f359-e148-4cf7-beae-eb3c0026df44
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/e5af41b6-8b3b-4c01-add3-22cb677a8640/ccd9f359-e148-4cf7-beae-eb3c0026df44/eCFxNkO
